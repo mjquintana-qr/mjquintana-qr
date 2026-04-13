@@ -1,4 +1,4 @@
-# Hi, I'm MJ 👋
+# Hi, I'm MJ 
 
 ## About Me
 Psychology student transitioning into Data Science | Sacramento, CA
@@ -11,11 +11,11 @@ to civil rights to community wellbeing. I'm eager to collaborate on
 innovative, impact-driven projects and am actively building my portfolio 
 across data science, machine learning, and UX research.
 
-## 🎓 Education
+## Education
 - B.S. Psychology (in progress)
 - MIT/edX Data Science Certificate (in progress)
 
-## 🛠️ Skills
+## Skills
 
 **Languages**
 Python · SQL · Markdown · HTML/CSS (basic)
@@ -46,7 +46,7 @@ Exploratory data analysis · Data visualization · Statistical analysis ·
 API integration · Model evaluation & bias auditing · Version control · 
 Dashboard design · Research replication · Synthetic data generation
 
-## 📊 Featured Projects
+## Featured Projects
 ### Mental Health in the Tech Workplace
 Analysis of mental health treatment trends among 1,259 tech workers
 - 🔗 [View Live Dashboard](https://public.tableau.com/app/profile/maria.jose.quintana.rivera/viz/MentalHealthintheTechWorkplace--DataAnalysis/Dashboard1)
@@ -56,18 +56,18 @@ Analysis of mental health treatment trends among 1,259 tech workers
 *More projects coming soon — currently building 25 projects across
 data science, ML, NLP, and UX research*
 
-## 💼 Experience
+## Experience
 - **Freelance Programming Instructor** — Teaching coding to children
 - **Summer Counselor Lead** — YMCA, program leadership & youth development
 - **Afterschool Teacher** — YMCA, curriculum design & instruction
 - **Dental Receptionist** — 4 years, patient coordination & office management
 
-## 🤝 Open to Collaborating On
+## Open to Collaborating On
 - Mental health, public health & community-focused data projects
 - Civil rights, social equity & advocacy research
 - AI, machine learning & NLP applications
 - Innovative, interdisciplinary, and experimental projects
 - Unpaid collaborations welcome — growth is the priority!
 
-## 📫 Let's Connect
+## Let's Connect
 Open to internships, research collaborations, and innovative projects!
