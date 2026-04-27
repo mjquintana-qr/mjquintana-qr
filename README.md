@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm MJ 👋</h1>
+<h1 align="center">Hi, I'm MJ </h1>
 <h3 align="center">Aspiring Data Scientist · Psychology + Data + Human Impact</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm a **Psychology student transitioning into Data Science**, currently completing the **MIT/edX Data Science Program**. I bring a unique combination to data work: rigorous research training, four-plus years of customer-facing experience, and a deep belief that **data is most powerful when it serves people**.
 
@@ -24,16 +24,16 @@ My background in psychology, education, and community work fuels projects that a
 
 ---
 
-## 🎯 What I'm Looking For
+## What I'm Looking For
 
-- 💼 **Data Science / Data Analyst internships** (remote or Sacramento, CA)
-- 🔬 **Research collaborations** in mental health, public health, or social equity
-- 🤝 **Open-source contributions** to mission-driven projects
-- 🌱 Mentorship and growth opportunities — paid or unpaid
+-  **Data Science / Data Analyst internships** (remote or Sacramento, CA)
+-  **Research collaborations** in mental health, public health, or social equity
+-  **Open-source contributions** to mission-driven projects
+-  Mentorship and growth opportunities — paid or unpaid
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 `Python` · `SQL` · `Markdown` · `HTML/CSS`
@@ -61,22 +61,22 @@ Machine learning · NLP · Time-series forecasting · Topic modeling (LDA) · Se
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧠 Mental Health in the Tech Workplace
+### Mental Health in the Tech Workplace
 > Analyzed mental health treatment trends across **1,259 tech workers** to surface patterns in workplace support, stigma, and access to care.
 
 **Tools:** Tableau Public · Excel  
 **Dataset:** OSMI Mental Health in Tech Survey  
-**🔗 [View Live Dashboard](#)**
+** [View Live Dashboard](#)**
 
 ---
 
-> 🚧 **More projects shipping soon** — currently building **25 projects** across data science, ML, NLP, and UX research. Watch this space.
+> **More projects shipping soon** — currently building **25 projects** across data science, ML, NLP, and UX research. Watch this space.
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Organization | What I Did |
 |------|--------------|------------|
@@ -89,14 +89,14 @@ Machine learning · NLP · Time-series forecasting · Topic modeling (LDA) · Se
 
 ---
 
-## 🎓 Education
+## Education
 
-- 🧠 **B.S. Psychology** *(in progress)*
-- 📊 **MIT/edX Data Science Certificate** *(in progress)*
+- **B.S. Psychology** *(in progress)*
+- **MIT/edX Data Science Certificate** *(in progress)*
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm actively seeking **internships, research collaborations, and mission-driven projects**. If you're working on something at the intersection of **data + human wellbeing**, I'd love to hear about it.
 
