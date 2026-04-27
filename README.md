@@ -20,7 +20,7 @@ I'm a **Psychology student transitioning into Data Science**, currently completi
 
 My background in psychology, education, and community work fuels projects that address real human challenges — from mental health, to civil rights, to community wellbeing. I'm actively building a portfolio of **25 projects** across data science, machine learning, NLP, and UX research.
 
-> **What I bring to a team:** the analytical rigor of a researcher, the empathy of an educator, and the curiosity of a lifelong learner.
+**What I bring to a team:** the analytical rigor of a researcher, the empathy of an educator, and the curiosity of a lifelong learner.
 
 
 
@@ -64,7 +64,7 @@ Machine learning · NLP · Time-series forecasting · Topic modeling (LDA) · Se
 ## Featured Projects
 
 ### Mental Health in the Tech Workplace
-> Analyzed mental health treatment trends across **1,259 tech workers** to surface patterns in workplace support, stigma, and access to care.
+Analyzed mental health treatment trends across **1,259 tech workers** to surface patterns in workplace support, stigma, and access to care.
 
 **Tools:** Tableau Public · Excel  
 **Dataset:** OSMI Mental Health in Tech Survey  
@@ -72,7 +72,7 @@ Machine learning · NLP · Time-series forecasting · Topic modeling (LDA) · Se
 
 
 
-> **More projects shipping soon** — currently building **25 projects** across data science, ML, NLP, and UX research. Watch this space.
+**More projects shipping soon** — currently building **25 projects** across data science, ML, NLP, and UX research. Watch this space.
 
 
 
@@ -85,7 +85,7 @@ Machine learning · NLP · Time-series forecasting · Topic modeling (LDA) · Se
 | **Afterschool Teacher** | YMCA | Designed curriculum and delivered instruction across diverse learner needs |
 | **Dental Receptionist** | Private practice | 4 years of patient coordination, scheduling, and front-office management |
 
-> Every role taught me skills that transfer directly into data work: listening carefully, translating needs into systems, and showing up for people who depend on me.
+Every role taught me skills that transfer directly into data work: listening carefully, translating needs into systems, and showing up for people who depend on me.
 
 
 
