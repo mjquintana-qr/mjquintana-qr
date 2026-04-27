@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjquintana-qr&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160">
 </p>
 
----
+
 
 ## About Me
 
@@ -22,7 +22,7 @@ My background in psychology, education, and community work fuels projects that a
 
 > **What I bring to a team:** the analytical rigor of a researcher, the empathy of an educator, and the curiosity of a lifelong learner.
 
----
+
 
 ## What I'm Looking For
 
@@ -31,7 +31,7 @@ My background in psychology, education, and community work fuels projects that a
 -  **Open-source contributions** to mission-driven projects
 -  Mentorship and growth opportunities — paid or unpaid
 
----
+
 
 ## Tech Stack
 
@@ -59,7 +59,7 @@ My background in psychology, education, and community work fuels projects that a
 **Methods**
 Machine learning · NLP · Time-series forecasting · Topic modeling (LDA) · Sentiment analysis · EDA · Statistical analysis · Bias auditing · Synthetic data generation · Research replication
 
----
+
 
 ## Featured Projects
 
@@ -70,11 +70,11 @@ Machine learning · NLP · Time-series forecasting · Topic modeling (LDA) · Se
 **Dataset:** OSMI Mental Health in Tech Survey  
 ** [View Live Dashboard](#)**
 
----
+
 
 > **More projects shipping soon** — currently building **25 projects** across data science, ML, NLP, and UX research. Watch this space.
 
----
+
 
 ## Experience
 
@@ -87,14 +87,14 @@ Machine learning · NLP · Time-series forecasting · Topic modeling (LDA) · Se
 
 > Every role taught me skills that transfer directly into data work: listening carefully, translating needs into systems, and showing up for people who depend on me.
 
----
+
 
 ## Education
 
 - **B.S. Psychology** *(in progress)*
 - **MIT/edX Data Science Certificate** *(in progress)*
 
----
+
 
 ## Let's Connect
 
